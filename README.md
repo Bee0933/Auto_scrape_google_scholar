@@ -21,7 +21,7 @@ ___
 ##  **✔️ Tech stack**
 ___
     * Python 
-    * Anaconda Soup
+    * Anaconda 
     * Vscode 
     * Pandas
     * Beautiful Soup
